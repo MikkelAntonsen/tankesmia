@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "4337be1d1e1802df",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1bb2f82bb9fe0e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "100_biblioteket/Centernet - Objects as Points.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5fb4b5bc7134d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "485a9e8a351bf1bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14804660e7a8547a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0039506ee6cd1058",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f9efccb80176056",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9ebdfdaa303c402",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9850b21f9aa318c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85280773fb4e3580",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100_biblioteket/Centernet - Objects as Points.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4c62e2a375c77f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100_biblioteket/Centernet - Objects as Points.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fd3e64114fee8a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "703b5e76b7c574f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100_biblioteket/Centernet - Objects as Points.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c1bb2f82bb9fe0e2",
+  "lastOpenFiles": [
+    "900_maler/Core zettel idea.md"
+  ]
+}
