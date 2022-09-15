@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100_biblioteket/Centernet - Objects as Points.md",
+            "file": "010_schmettelkasten/Coordinates forms.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_biblioteket/Centernet - Objects as Points.md",
+                "file": "010_schmettelkasten/Coordinates forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_biblioteket/Centernet - Objects as Points.md",
+                "file": "010_schmettelkasten/Coordinates forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_biblioteket/Centernet - Objects as Points.md"
+                "file": "010_schmettelkasten/Coordinates forms.md"
               }
             }
           }
@@ -130,6 +130,9 @@
   },
   "active": "c1bb2f82bb9fe0e2",
   "lastOpenFiles": [
+    "010_schmettelkasten/Matrix layouts.md",
+    "100_biblioteket/CornerNet - Detecting Objects as Paired Keypoints.md",
+    "100_biblioteket/Centernet - Objects as Points.md",
     "900_maler/Core zettel idea.md"
   ]
 }
