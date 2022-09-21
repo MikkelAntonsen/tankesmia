@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100_biblioteket/Centernet - Objects as Points.md",
+            "file": "100_biblioteket/Are we done with ImageNet?.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8f8c4af98b73301e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "010_schmettelkasten/Making a talk.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_biblioteket/Centernet - Objects as Points.md",
+                "file": "100_biblioteket/Are we done with ImageNet?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_biblioteket/Centernet - Objects as Points.md",
+                "file": "100_biblioteket/Are we done with ImageNet?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_biblioteket/Centernet - Objects as Points.md"
+                "file": "100_biblioteket/Are we done with ImageNet?.md"
               }
             }
           }
@@ -130,6 +142,9 @@
   },
   "active": "c1bb2f82bb9fe0e2",
   "lastOpenFiles": [
+    "100_biblioteket/Centernet - Objects as Points.md",
+    "010_schmettelkasten/Making a talk.md",
+    "000_zettelkasten/A Study on Self-Supervised Object Detection Pretraining.md",
     "900_maler/Core zettel idea.md"
   ]
 }
