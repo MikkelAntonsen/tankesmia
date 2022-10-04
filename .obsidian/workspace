@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "100_biblioteket/Are we done with ImageNet?.md",
+            "file": "100_biblioteket/An Emperical Model of Large-Batch Training.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_biblioteket/Are we done with ImageNet?.md",
+                "file": "100_biblioteket/An Emperical Model of Large-Batch Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_biblioteket/Are we done with ImageNet?.md",
+                "file": "100_biblioteket/An Emperical Model of Large-Batch Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_biblioteket/Are we done with ImageNet?.md"
+                "file": "100_biblioteket/An Emperical Model of Large-Batch Training.md"
               }
             }
           }
@@ -142,8 +142,11 @@
   },
   "active": "c1bb2f82bb9fe0e2",
   "lastOpenFiles": [
-    "100_biblioteket/Centernet - Objects as Points.md",
+    "010_schmettelkasten/Evaluating louse laser detector.md",
+    "010_schmettelkasten/Full stack deep learning talk.md",
     "010_schmettelkasten/Making a talk.md",
+    "100_biblioteket/Are we done with ImageNet?.md",
+    "100_biblioteket/Centernet - Objects as Points.md",
     "000_zettelkasten/A Study on Self-Supervised Object Detection Pretraining.md",
     "900_maler/Core zettel idea.md"
   ]
