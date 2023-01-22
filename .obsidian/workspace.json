@@ -166,17 +166,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "037feb6e3b08e7e2",
+  "active": "a4b911c527fdc66d",
   "lastOpenFiles": [
+    "010_schmettelkasten/Experiments.md",
+    "010_schmettelkasten/Google finetuning playbook.md",
     "Home.md",
     "010_schmettelkasten/Instantpot soft boiled eggs.md",
     "010_schmettelkasten/Mat.md",
-    "010_schmettelkasten/Experiments.md",
     "010_schmettelkasten/2023.md",
     "Homepage.md",
     "010_schmettelkasten/Making a talk.md",
     "010_schmettelkasten/Full stack deep learning talk.md",
-    "010_schmettelkasten/ClearML - Agroscout.md",
-    "100_biblioteket/An Emperical Model of Large-Batch Training.md"
+    "010_schmettelkasten/ClearML - Agroscout.md"
   ]
 }
