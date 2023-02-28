@@ -11,3 +11,9 @@ Læringsmomenter:
 2. Head funker bedre med `ls` enn med `ls -al`
 3. jeg kan ikke awk men [`NF is a predefined variable whose value is the number of fields in the current record. `awk` automatically updates the value of `NF` each time it reads a record.`](https://www.gnu.org/software/gawk/manual/gawk.html#SEC_Contents)
 4. basename er nyttig i fish for å fjerne file extensions 
+
+### Endelig kommando for å laste opp alle bilder til s3 stingray machine learning imagelake
+
+```
+aws s3 cp /volumenta/reposet/imagelake/00a75ea2-fb75-4356-857a-5560722f3f23_LeftCamera_019.jpg s3://stingray-machine-learning-imagelake
+```
