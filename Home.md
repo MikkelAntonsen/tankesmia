@@ -10,3 +10,12 @@
 ### Mat
 
 [[Mat]]
+
+## Cooking
+
+- Cooking [[Beans]]
+- [[Veggies]]
+- Frittata
+- Kale pesto pasta
+- Doenjangjjigae
+- Buddha bowl

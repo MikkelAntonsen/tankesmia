@@ -2,5 +2,7 @@
   "vimMode": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "000_zettelkasten",
-  "attachmentFolderPath": "900_filer"
+  "attachmentFolderPath": "900_filer",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
