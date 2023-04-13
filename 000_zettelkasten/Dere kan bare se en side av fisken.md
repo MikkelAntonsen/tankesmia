@@ -1,0 +1,1 @@
+Godt poeng, hva synes vi egentlig om det?

@@ -1,0 +1,1 @@
+En spesifisitet på 95% vil gi 5 feildeteksjoner på 100 fisk hvis ingen av dem har sår. Desto mindre sår det er, desto flere fisk kan den gjøre feildeteksjoner på. Derfor ser det verre ut desto færre sår det er.
