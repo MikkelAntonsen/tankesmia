@@ -14,6 +14,8 @@
 
 [[2023]]
 
+# Wardrobe
+[[wardrobe]]
 
 ### Mat
 
