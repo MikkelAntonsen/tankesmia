@@ -12,6 +12,7 @@ Natural release: 20 minutes
 
 Result: Firm, but soft.
 
+Result v2: Did 45 minutes instead. Many beans where hard because they were not submerged in water. Some were very mushy.
 
 # Black eyed peas:
 
