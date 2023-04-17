@@ -1,3 +1,9 @@
+
+###
+
+"Her kan dere komme med innspil!"
+
+
 Vi vil gi kunder muligheten til å overvåke velferden hos fisken sin in real time.
 
 Er det noen som teller sår bildebasert her? Har du lagt merke til at forskjellige folk teller forskjellig?

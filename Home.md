@@ -5,7 +5,9 @@
 	1. http://blog.ninlabs.com/2013/01/programmer-interrupted/
 	2. coping strategies http://www.chrisparnin.me/pdf/parnin-sqj11.pdf
 
+# Brukerforum
 
+[[Automatisering sår]]
 
 [[Experiments]]
 
@@ -31,6 +33,3 @@
 - Buddha bowl
 
 
-# Brukerforum
-
-[[Automatisering sår]]
