@@ -6,6 +6,7 @@ Tags:
 
 # goneminimal
 
+Potentially has a good "Other resources" list
 
 ---
 # References

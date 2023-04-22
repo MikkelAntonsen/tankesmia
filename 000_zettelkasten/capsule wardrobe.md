@@ -13,9 +13,17 @@ Concepts:
 
 We are gonne stick to one palette. We aim for colors that all go together, which means we need neutral colors. Navys, greys, browns, drabs, blacks are suggested.
 
+What do I do day to day and week to week:
+1. Go to work
+2. Chill in cafes
+3. Sit at home
+4. Do climb/going to be swimming
+5. Go on dates
+6. 
+
 [[fashionbeans]]
-[[goneminimal]]<-- in progress
-[[gazman]]
+[[goneminimal]]
+[[gazman]]<-- in progress
 [[gabriellarruda]]
 
 
