@@ -10,3 +10,4 @@ Tags:
 ---
 # References
 https://e2eml.school/transformers.html
+https://magazine.sebastianraschka.com/p/understanding-large-language-models
