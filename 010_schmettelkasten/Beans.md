@@ -22,5 +22,3 @@ Natural release: 0 minutes
 Result: Mushy, falling apart.
 
 # Chickpeas
-
-[Reference](https://www.pressurecookrecipes.com/instant-pot-hummus)
