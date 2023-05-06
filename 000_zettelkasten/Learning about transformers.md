@@ -11,3 +11,4 @@ Tags:
 # References
 https://e2eml.school/transformers.html
 https://magazine.sebastianraschka.com/p/understanding-large-language-models
+https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html
