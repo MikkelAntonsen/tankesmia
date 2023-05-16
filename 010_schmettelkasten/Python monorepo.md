@@ -7,6 +7,13 @@ Tags:
 
 # Python monorepo
 
+Main challenges
+- Distributing code
+- managing dependencies
+- avoiding import cycles
+- making testing easy
+
+
 
 ### Namespace packaging
 
@@ -16,6 +23,13 @@ Poenget [her](https://setuptools.pypa.io/en/latest/userguide/package_discovery.h
 
 https://caremad.io/posts/2013/07/setup-vs-requirement/
 
+
+### [Flit](https://flit.pypa.io/en/stable/rationale.html)
+
+- Publishes packages for you
+- Does not support a build step
+- reproducible builds
+- does not support dependencies
 
 # Leseliste
 1. https://www.tweag.io/blog/2023-04-04-python-monorepo-1/
