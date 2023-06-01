@@ -22,3 +22,16 @@ Natural release: 0 minutes
 Result: Mushy, falling apart.
 
 # Chickpeas
+
+
+# Pintobeans
+
+- 385g beans
+- 900 g water
+- 1 Onion
+- 1 Garlic
+- oregano
+- 8 g salt
+- 2 bay leafs
+
+900g vann var litt lite, de øverste bønnene fikk litt lite vann
