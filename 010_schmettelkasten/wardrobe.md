@@ -7,6 +7,7 @@ Tags:
 # wardrobe
 
 [[capsule wardrobe]]
+[[reddit MFA tutorials]]
 
 ### What outfits do I need
 1. comfortable clothes for work
@@ -26,6 +27,7 @@ Tags:
 - jogging pants
 
 ## Actionable steps
-1. Go through closet and make keep, toss, maybe pile.
+1. ~~Go through closet and make keep, toss, maybe pile.
+2. Find a minimal set of clothes to buy
 
 ---
