@@ -1,8 +1,4 @@
 
-### Ferie 2023
-
-[[scotland west highland way]]
-
 # Temporary notes
 
 1. [Hva er prospective memory?](https://hsi.arc.nasa.gov/flightcognition/Publications/Dodhia_SARMAC'05.pdf) Har NASA noen løsninger jeg kan bruke i virket mitt?
