@@ -1,0 +1,1 @@
+To get a padded size do (size | (pad_size)) - 1

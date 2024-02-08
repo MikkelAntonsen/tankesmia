@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010_schmettelkasten/Coordinates forms.md",
+            "file": "010_schmettelkasten/Full stack deep learning talk.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8f8c4af98b73301e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "010_schmettelkasten/Making a talk.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010_schmettelkasten/Coordinates forms.md",
+                "file": "010_schmettelkasten/Full stack deep learning talk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010_schmettelkasten/Coordinates forms.md",
+                "file": "010_schmettelkasten/Full stack deep learning talk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010_schmettelkasten/Coordinates forms.md"
+                "file": "010_schmettelkasten/Full stack deep learning talk.md"
               }
             }
           }
@@ -130,9 +142,14 @@
   },
   "active": "c1bb2f82bb9fe0e2",
   "lastOpenFiles": [
-    "010_schmettelkasten/Matrix layouts.md",
-    "100_biblioteket/CornerNet - Detecting Objects as Paired Keypoints.md",
+    "010_schmettelkasten/ClearML - Agroscout.md",
+    "010_schmettelkasten/Full stack deep learning talk.md",
+    "010_schmettelkasten/Making a talk.md",
+    "100_biblioteket/An Emperical Model of Large-Batch Training.md",
+    "010_schmettelkasten/Evaluating louse laser detector.md",
+    "100_biblioteket/Are we done with ImageNet?.md",
     "100_biblioteket/Centernet - Objects as Points.md",
+    "000_zettelkasten/A Study on Self-Supervised Object Detection Pretraining.md",
     "900_maler/Core zettel idea.md"
   ]
 }

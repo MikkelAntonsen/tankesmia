@@ -1,0 +1,1 @@
+8 minutt i instantpot var for lenge
